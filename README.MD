@@ -1,3 +1,3 @@
-# Northwind Database (Postgres)
+## Northwind Database (Postgres)
 
 <img src=ER.png />
