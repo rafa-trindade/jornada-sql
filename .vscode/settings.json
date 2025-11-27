@@ -1,4 +1,5 @@
 {
+
   "sqltools.connections": [
     {
       "ssh": "Disabled",
@@ -12,4 +13,5 @@
       "username": "rafael"
     }
   ]
+  
 }
